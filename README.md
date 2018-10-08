@@ -60,7 +60,7 @@ Feature: To Test the Login Functionality
 
 * Clone the project on your machine using command: **git clone https://github.com/AshwinK1989/PrudentialUIAutomation.git**
 
-* Traverse to root level of the project and run the command: **mvn clean compile verify  -Dcucumber.options="/Users/ashwin/Documents/work/learning/PrudentialUIAutomation/Features/Prudential_Scenarios.feature"**
+* Traverse to root level of the project and run the command: **mvn clean compile verify  -Dcucumber.options="Features/Prudential_Scenarios.feature"**
 
 The report will be present in file: **/PrudentialUIAutomation/target/cucumber-report-html/cucumber-html-reports/overview-features.html**
 
