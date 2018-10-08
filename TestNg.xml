@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name ="Cucumber Suite" parallel="tests" thread-count = "2" >
+
+
+    <test name="Login Test1">
+        <parameter name="browser" value="Chrome"/>
+        <packages>
+            <package name ="runner"/>
+        </packages>
+    </test>
+
+    <!--<test name="Login Test2">-->
+        <!--<parameter name="browser" value="Chrome"/>-->
+        <!--<packages>-->
+            <!--<package name ="runner"/>-->
+        <!--</packages>-->
+    <!--</test>-->
+
+</suite>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/Features/Synapse_TW_Flow.feature" />
+    <file url="file://$PROJECT_DIR$/Features/Term_B2C.feature" />
+    <file url="file://$PROJECT_DIR$/Features/TW_B2C.feature" />
+    <file url="file://$PROJECT_DIR$/Features/Uaex_TW_Flow.feature" />
+    <file url="file://$PROJECT_DIR$/Features/Wiezmann_Login.feature" />
+    <file url="file://$PROJECT_DIR$/Features/Wiezmann_TW_Flow.feature" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_10" project-jdk-name="8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
